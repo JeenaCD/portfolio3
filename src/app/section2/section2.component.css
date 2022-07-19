@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    color: rgb(84, 86, 207);
+}
+.section2{
+    padding-top: 50px;
+    /* background-color: rgb(84, 86, 207); */
+}
+.one{
+    padding-top: 40px;
+    padding-left: 300px;
+}
+
+.two{
+    padding-left: 600px;
+}

@@ -1,0 +1,33 @@
+.carousel-item {
+    /* background-image: url('https://image.shutterstock.com/image-illustration/testimonials-icon-isolated-on-special-260nw-1149227165.jpg'); */
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 200px;
+    width:100%;
+    background-color: rgb(213, 217, 239);
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.section3{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    /* background-image: url('https://image.shutterstock.com/image-illustration/testimonials-icon-isolated-on-special-260nw-1149227165.jpg'); */
+    text-align: center;
+}
+
+h2{
+    color: rgb(84, 86, 207);
+}
+
+h5{
+    text-align: center;
+    color:  rgb(19, 20, 21);;
+}
+
+p{
+    padding-top: 20px;
+    text-align: center;
+    color: black;
+}
+
